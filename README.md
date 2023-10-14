@@ -7,7 +7,7 @@ Este proyecto tiene como objetivo demostrar cómo utilizar un ESP32 para recopil
 - Daniel Lorenzo Ramos
 - Jeremy Andrew Rosillo
 - Sebastian Fernando Castillo
-- Jhonatan Bartolo
+- Jhonatan Bartolo Hungaro
 - Sebastian Alberto Rojas
 
 ## Contenido del Repositorio
