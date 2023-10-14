@@ -34,11 +34,13 @@ Para configurar y utilizar este proyecto, sigue estos pasos:
 
 ## Imágenes Referenciales
 
-Aquí hay algunas imágenes del proyecto:
+Aquí están las imágenes del proyecto:
 
-- ![Esquemático](imagenes/esquematico.png)
-- ![Circuito en Wowki](imagenes/circuito_wowki.png)
+- Diagrama Esquemático:
+  <img src="https://i.imgur.com/XOc8xXi.png" alt="Esquemático" width="400"/>
 
+- Circuito en Wowki:
+  <img src="https://i.imgur.com/6yxJJoV.png" alt="Circuito en Wowki" width="400"/>
 ## Licencia
 
 Este proyecto está bajo la Licencia MIT. Para obtener más información, consulta el archivo [LICENSE](LICENSE).
