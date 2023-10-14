@@ -36,13 +36,11 @@ Para configurar y utilizar este proyecto, sigue estos pasos:
 
 Aquí están las imágenes del proyecto:
 
-- Diagrama Esquemático:
+- Resultados en la página web :
   <img src="https://i.imgur.com/XOc8xXi.png" alt="Esquemático" width="400"/>
 
 
-
-
-- Circuito en Wowki:
+- Circuito en Wowki :
   <img src="https://i.imgur.com/6yxJJoV.png" alt="Circuito en Wowki" width="400"/>
 
   
