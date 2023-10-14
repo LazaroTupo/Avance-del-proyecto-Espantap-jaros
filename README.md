@@ -39,8 +39,13 @@ Aquí están las imágenes del proyecto:
 - Diagrama Esquemático:
   <img src="https://i.imgur.com/XOc8xXi.png" alt="Esquemático" width="400"/>
 
+
+
+
 - Circuito en Wowki:
   <img src="https://i.imgur.com/6yxJJoV.png" alt="Circuito en Wowki" width="400"/>
+
+  
 ## Licencia
 
 Este proyecto está bajo la Licencia MIT. Para obtener más información, consulta el archivo [LICENSE](LICENSE).
